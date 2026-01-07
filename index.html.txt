@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My AWS Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 My AWS Cloud Project</h1>
+        <p>AWS Certified Cloud Practitioner</p>
+        <p>This website is hosted on Amazon S3 with CloudFront CDN</p>
+        <div class="features">
+            <div class="feature">✅ Amazon S3</div>
+            <div class="feature">✅ CloudFront CDN</div>
+            <div class="feature">✅ HTTPS Secure</div>
+            <div class="feature">✅ Cost: $0/month</div>
+        </div>
+        <p><strong>Project Skills:</strong> Static Website Hosting, CDN Configuration, Security, Cost Optimization</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

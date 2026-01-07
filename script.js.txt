@@ -1,0 +1,5 @@
+console.log("AWS Portfolio Website Loaded!");
+// Simple visitor counter simulation
+document.addEventListener('DOMContentLoaded', function() {
+    console.log("This site uses AWS CloudFront for global content delivery");
+});
